@@ -18,6 +18,7 @@ Historically, mapping and surveying deep sea environments has been difficult due
 <br>Implementation: https://paperswithcode.com/paper/watergan-unsupervised-generative-network-to
 ### Thomas:
 [![IMAGE_ALT](https://img.youtube.com/vi/cHXUSpZdsEo/0.jpg)](https://www.youtube.com/watch?v=cHXUSpZdsEo)
-
+<br>Implementation: https://paperswithcode.com/paper/watergan-unsupervised-generative-network-to
 ### Alex:
 [![IMAGE_ALT](https://img.youtube.com/vi/cHXUSpZdsEo/0.jpg)](https://www.youtube.com/watch?v=cHXUSpZdsEo)
+<br>Implementation: https://paperswithcode.com/paper/watergan-unsupervised-generative-network-to
