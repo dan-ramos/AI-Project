@@ -20,5 +20,5 @@ Historically, mapping and surveying deep sea environments has been difficult due
 [![IMAGE_ALT](https://img.youtube.com/vi/QkW2HFb5eIg/0.jpg)](https://www.youtube.com/watch?v=QkW2HFb5eIg)
 <br>Implementation: https://paperswithcode.com/paper/u-shape-transformer-for-underwater-image
 ### Alex:
-[![IMAGE_ALT](https://img.youtube.com/vi/cHXUSpZdsEo/0.jpg)](https://www.youtube.com/watch?v=cHXUSpZdsEo)
-<br>Implementation: https://paperswithcode.com/paper/watergan-unsupervised-generative-network-to
+[![IMAGE_ALT](https://media.discordapp.net/attachments/825605195802214410/1049241751698821170/image.png)](https://streamable.com/kesp67)
+<br>Implementation: https://paperswithcode.com/paper/an-underwater-image-enhancement-benchmark
