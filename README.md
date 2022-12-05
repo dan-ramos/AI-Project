@@ -13,6 +13,4 @@ Historically, mapping and surveying deep sea environments has been difficult due
 
 ## Individual Video Submissions
 ### Daniel:
-<iframe width="420" height="315"
-src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://www.youtube.com/watch?v=cHXUSpZdsEo)">
-</iframe>
+{% include youtube.html id=”cHXUSpZdsEo” %}
